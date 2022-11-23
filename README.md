@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming advanced websites based on my own knowledge.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Angular.
 
 - 💞️ I’m looking to collaborate on internship. I am a first-year computer science student, and I am open to gaining more and more experience.
 
